@@ -1,5 +1,5 @@
-Python Demo App
-===============
+AppDynamics Python Demo App
+===========================
 
 A trivial Flask web app that can be used to demo performance monitoring features. The app has routes that do things like:
 
